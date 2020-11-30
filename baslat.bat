@@ -3,3 +3,4 @@ cls
 :a
 node ALYA.js
 goto a
+a
